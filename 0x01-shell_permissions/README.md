@@ -16,3 +16,4 @@ Owner: no permission at all
 Group: no permission at all
 
 Other users: all the permissions
+the 10th script gives read,write,execute permissions to the owner, write and execute to the group, write and execute to any other person
