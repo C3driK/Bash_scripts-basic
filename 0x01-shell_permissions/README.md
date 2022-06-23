@@ -5,3 +5,4 @@ The third script 2-groups, is used to show the groups the current user belongs.
 3-new_owner, this script is used to make betty the owner of file-hello
 The 4-empty script is used to create an empty file
 5-execute, this scipt adds the execute permission to the hello file'
+This script, multiple_permissions,  adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
