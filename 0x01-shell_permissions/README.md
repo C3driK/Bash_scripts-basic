@@ -7,3 +7,12 @@ The 4-empty script is used to create an empty file
 5-execute, this scipt adds the execute permission to the hello file'
 This script, multiple_permissions,  adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 This script adds execution permission to the owner, the group owner and the other users, to the file hello
+the 9th script sets the permission to the file hello as follows:
+
+
+
+Owner: no permission at all
+
+Group: no permission at all
+
+Other users: all the permissions
