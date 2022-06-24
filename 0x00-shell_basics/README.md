@@ -8,3 +8,4 @@ This script creates a directory within another directory expressly.
 This script is used to move a particular file from a particular directory to another folder within a different directory.
 The firstdelete script shows how to delete a particular file within a particular directory.
 The firstdirdeletion script shows how to delete a directory thats within another directory.
+The 10-back script is used to go back to the previous working directory.
