@@ -10,3 +10,4 @@ The firstdelete script shows how to delete a particular file within a particular
 The firstdirdeletion script shows how to delete a directory thats within another directory.
 The 10-back script is used to go back to the previous working directory.
 The 11-lists script long  all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+The 12-file_type displays the file named iamafile and the directory /tmp when run.
