@@ -14,3 +14,4 @@ The 12-file_type displays the file named iamafile and the directory /tmp when ru
 The 13-symbolic_link create a symbolic link to /bin/ls named __ls__.
 The 14-copy_html script copies all html files in the current working directory to the parent directory, adding only the html files that did not already exist in the parent directory or newer versions of the html files that already existed therein.
 The 100-lets_move script moves  all files beginning with an uppercase letter to the directory /tmp/u.
+The 101-clean_emacs script deletes all files in the working directory that ends with ~.
