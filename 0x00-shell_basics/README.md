@@ -6,3 +6,4 @@ The listmore script show more files including hidden files.
 The listfilesdigitonly script displays contents of a directory numerically.
 This script creates a directory within another directory expressly.
 This script is used to move a particular file from a particular directory to another folder within a different directory.
+The firstdelete script shows how to delete a particular file within a particular directory.
