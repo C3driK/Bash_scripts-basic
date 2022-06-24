@@ -1,1 +1,1 @@
-This script contains the command to show the current working directory.
+The first script 0-working directory is used to display the current working directory of the user.
