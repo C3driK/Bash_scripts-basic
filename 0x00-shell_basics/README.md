@@ -3,3 +3,4 @@ The second script 1-listit, diesplays the contents of the current working direct
 The third script take the user to the home directory
 The 3-listfiles script displays the contents of the current directory in a long format.
 The listmore script show more files including hidden files.
+The listfilesdigitonly script displays contents of a directory numerically.
