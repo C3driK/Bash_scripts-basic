@@ -1,1 +1,1 @@
-This repo is going to be used for the "about bash project".
+This repo contains scripts which will be used to automate certain basic tasks on the terminal
